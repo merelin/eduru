@@ -1,7 +1,6 @@
 package frolg.edu.rulang
 
-import frolg.edu.rulang.util.JsonConverter._
-import org.json4s.{DefaultFormats, StringInput}
+import com.github.merelin.util.json.JsonConverter._
 
 object Main {
   def main(args: Array[String]): Unit = {
